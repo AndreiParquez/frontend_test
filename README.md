@@ -30,7 +30,7 @@ Reference implementation based on: [Assessment Video Sample](https://drive.googl
 
 ## 🌐 Live Demo
 
-**🚀 Live Site**: [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
+**🚀 Live Site**: [https://frontend-test-nine-rho.vercel.app/](https://frontend-test-nine-rho.vercel.app/)
 
 *Experience the full responsive design and interactions on any device!*
 
@@ -75,7 +75,7 @@ abenson-frontend-assessment/
 
 - **HTML5**: Semantic markup with accessibility in mind
 - **CSS3**: Modern styling with Grid, Flexbox, and custom properties
-- **Vanilla JavaScript**: ES6+ features without external dependencies
+- **Vanilla JavaScript**: ES6+ features without external dependenciesapp
 - **Mobile-First Approach**: Progressive enhancement from 320px up
 
 ### Architecture & Best Practices
