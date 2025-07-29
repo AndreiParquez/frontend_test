@@ -23,7 +23,6 @@ This project is a solution to the **Abenson Junior Front-End Developer Skill Ass
 - **🔄 Smooth Animations**: Custom transitions and loading states
 - **♿ Accessibility**: WCAG compliant with semantic HTML and keyboard navigation
 - **🚀 Performance Optimized**: Lazy loading images and efficient animations
-- **🧩 Component-Based Structure**: Modular and maintainable code architecture
 
 ## 🎥 Demo Video
 
