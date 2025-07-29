@@ -28,6 +28,12 @@ This project is a solution to the **Abenson Junior Front-End Developer Skill Ass
 
 Reference implementation based on: [Assessment Video Sample](https://drive.google.com/file/d/1svdPOjEtDJutuMzG_BGhePwqQ2KSLhV6/view?usp=sharing)
 
+## 🌐 Live Demo
+
+**🚀 Live Site**: [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
+
+*Experience the full responsive design and interactions on any device!*
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -245,10 +251,11 @@ This project demonstrates proficiency in the following areas as required by Aben
 
 This project includes:
 
-- ✅ **Public GitHub Repository**: Complete source code
+- ✅ **Public GitHub Repository**: [https://github.com/AndreiParquez/frontend_test](https://github.com/AndreiParquez/frontend_test)
+- ✅ **Live Demo**: [https://frontend-test-nine-rho.vercel.app/](https://frontend-test-nine-rho.vercel.app/)
 - ✅ **README Documentation**: Setup and technical details
 - ✅ **ZIP File**: All project files ready for submission
-- ✅ **Video Documentation**: Screen-recorded development process (optional)
+- ✅ **Video Documentation**: [Add your screen recording link here](https://your-video-link.com)
 
 ## 🚀 Development Process
 
